@@ -3,6 +3,8 @@ name: CI to Dockjobs
 on:
   push:
     branches: [ main ]
+    tags:
+      - "v*.*.*"
     
 jobs:
 
