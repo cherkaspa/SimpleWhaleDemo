@@ -1,4 +1,4 @@
-name: CI to Dockjobs:
+name: CI to Dockjobs
 
 on:
   push:
